@@ -1,0 +1,23 @@
+{
+  "name": "chatio",
+  "version": "1.0.0",
+  "description": "Simple Chat App",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nbgslv/ChatIO.git"
+  },
+  "author": "Nachman Boguslavski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nbgslv/ChatIO/issues"
+  },
+  "homepage": "https://github.com/nbgslv/ChatIO#readme",
+  "dependencies": {
+    "socket.io": "*",
+    "express": "*"
+  }
+}
